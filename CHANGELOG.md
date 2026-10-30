@@ -1,5 +1,11 @@
 # mattpocock-skills
 
+## 1.3.3
+
+### Patch Changes
+
+- [#1342](https://github.com/mattpocock/skills/pull/1342) [`a496f55`](https://github.com/mattpocock/skills/commit/a496f5513d4a4cf889bc48e189e579f4b0bdf6aa) Thanks [@mattpocock](https://github.com/mattpocock)! - `implement-spec` now uses a fresh implementer subagent for each ticket and for the code-review fixes, instead of reusing an earlier implementer.
+
 ## 1.3.2
 
 ### Patch Changes
